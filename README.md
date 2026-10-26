@@ -28,8 +28,8 @@ src/
 
 ## Prints das telas
 
-![Home](assets/home.png)
-![Sobre mim](assets/about_me.png)
+![Home](src/assets/home.png)
+![Sobre mim](src/assets/about_me.png)
 
 ## Como rodar
 
