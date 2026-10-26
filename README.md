@@ -28,8 +28,8 @@ src/
 
 ## Prints das telas
 
-![Home](src/assets/home.png)
-![Sobre mim](src/assets/about_me.png)
+<img src="src/assets/home.png" width="400" alt="Home">
+<img src="src/assets/about_me.png" width="400" alt="Sobre Mim">
 
 ## Como rodar
 
